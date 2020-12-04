@@ -3,16 +3,19 @@
 
 <p align="center">
   <a href="https://www.behance.net/mmkepler" rel="noopener" target="_blank">
-    <img src="iconmonstr-behance-3.svg" alt="Behance />
-  </a>                                           
-  <a href="https://www.linkedin.com/in/mmkepler/" rel="noopener" target="_blank">
-    <img src="iconmonstr-linkedin-3.svg" alt="LinkedIn icon" style="padding:40px;"/>
-  </a>     
-  <a href="https://twitter.com/missarachnid" rel="noopener" target="_blank">
-    <img src="iconmonstr-twitter-3.svg" alt="Twitter icon" style="margin:40px;"/>
+    <img src="iconmonstr-behance-3.svg" alt="Behance icon"/>
   </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mmkepler/" rel="noopener" target="_blank">
+    <img src="iconmonstr-linkedin-3.svg" alt="LinkedIn icon"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/missarachnid" rel="noopener" target="_blank">
+    <img src="iconmonstr-twitter-3.svg" alt="Twitter icon"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://mmkepler.com/" rel="noopener" target="_blank">
-    <img src="iconmonstr-globe-3.svg" alt="A website icon" style="margin:40px;"/>
+    <img src="iconmonstr-globe-3.svg" alt="A website icon"/>
   </a>
   </p>
 <h1 align="center">Hello World, I'm Melissa 👋 [She/Her]</h1>
