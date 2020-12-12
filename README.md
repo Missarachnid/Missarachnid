@@ -120,7 +120,7 @@
 <p align="center">
   <p align="center">💪 Weight Lifting 🏋️</p>
   <p align="center">🐾 My Dogs 🐕‍🦺</p>
-  <p align="center">🤨 Sketpticism 🤨</p>
+  <p align="center">🤨 Skepticism 🤨</p>
   <p align="center">🦖 Dinosaurs 🦕</p>
   <p align="center">🏔️🌲 I dream of coding from a cabin in the middle of nowhere 🌲🏔️</p>
 </p>
