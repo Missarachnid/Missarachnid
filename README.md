@@ -112,7 +112,7 @@
 
 <h5 align="center">What I am currently learning:</h5>
 
-<p align="center">Data Visualization, TypeScript, Testing, and honing my skills with Hooks.</p>
+<p align="center">Data Visualization, TypeScript, Testing, and honing my skills with Hooks, and GraphQL.</p>
 
 <p align="center">_____________________________________</p>
 
