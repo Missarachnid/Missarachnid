@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%20&message=JavaScript&color=009799" alt="Javascript" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?label=%20&message=React&color=009799" alt="React" />
+  <img src="https://img.shields.io/static/v1?label=%20&message=React/Hooks&color=009799" alt="React with Hooks" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?label=%20&message=Redux&color=009799" alt="Redux" />
   &nbsp;&nbsp;&nbsp;
@@ -101,7 +101,23 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?label=%20&message=Testing&color=009799" alt="Testing" />
   &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/static/v1?label=%20&message=Google%20Analytics&color=009799" alt="Google Analytics" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?label=%20&message=Styled%20Components&color=009799" alt="Styled Components" />
+</p>
+
+<h3 align="center">Currently Learning:<h3>
+  
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=%20&message=GraphQL&color=009799" alt="GraphQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?label=%20&message=KeystoneJs&color=009799" alt="Keystonejs" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?label=%20&message=Next.js&color=009799" alt="Next.js" />
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">_____________________________________</p>
@@ -120,7 +136,6 @@
 <p align="center">
   <p align="center">💪 Weight Lifting 🏋️</p>
   <p align="center">🐾 My Dogs 🐕‍🦺</p>
-  <p align="center">🤨 Skepticism 🤨</p>
   <p align="center">🦖 Dinosaurs 🦕</p>
   <p align="center">🏔️🌲 I dream of coding from a cabin in the middle of nowhere 🌲🏔️</p>
 </p>
