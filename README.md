@@ -126,10 +126,6 @@
 
 <p align="center">I am searching for a position as a Front End of Full Stack React Developer, preferably remote.</p>
 
-<h5 align="center">What I am currently learning:</h5>
-
-<p align="center">Data Visualization, TypeScript, Testing, and honing my skills with Hooks, and GraphQL.</p>
-
 <p align="center">_____________________________________</p>
 
 <h6 align="center">What I'm into:</h6>
