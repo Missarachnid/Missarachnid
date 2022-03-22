@@ -139,7 +139,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missarachnid&layout=compact)](https://github.com/Missarachnid/github-readme-stats)
 
-**Missarachnid/Missarachnid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Missarachnid/Missarachnid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. m
 
 
 Here are some ideas to get you started:
