@@ -124,7 +124,7 @@
 
 <h4 align="center">What I'm working on:</h4>
 
-<p align="center">I am searching for a position as a Front End of Full Stack React Developer, preferably remote.</p>
+<p align="center">I am searching for a position as a remote Front End or Full Stack React Developer</p>
 
 <p align="center">_____________________________________</p>
 
